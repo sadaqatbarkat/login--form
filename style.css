@@ -1,0 +1,66 @@
+div {
+	width: 285px;
+	height: 350px;
+	border: 1px solid black;
+	border-radius: 10px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color:hwb(0 100% 0%);
+	
+
+}
+
+
+.pak {
+	width: 250px;
+	height: 25px; 
+	color: #f7fff7;	
+	border-radius: 14px;
+
+
+}
+
+
+
+
+
+
+
+
+#two {
+	background: linear-gradient(to right, #6600ff 0%, #ff99cc 100%);
+	color: white;
+	height: 30px;
+	width: 250px;
+	border-radius: 15px;
+}
+
+h1{
+
+	width: 285px;
+	height: 70px;
+	margin-top: 0px;
+	background: linear-gradient(to right, #6600ff 0%, #ff99cc 100%);
+	color: white;
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+.four {
+	text-decoration: none;
+	text-align: left;
+
+
+}
+body{
+	background-color: RGB 245, 245, 220;
+}
